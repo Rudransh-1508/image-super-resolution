@@ -6,7 +6,7 @@ This project implements a **deep learning pipeline** for 4× image super-resolut
 
 ---
 
-#About the Model – SwinIR
+# About the Model – SwinIR
 
 **SwinIR** (Swin Transformer for Image Restoration) is a vision transformer-based model that introduces:
 
